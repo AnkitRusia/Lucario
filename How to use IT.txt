@@ -1,0 +1,5 @@
+HOW TO USE IT.
+
+Download/Clone the reposatory.
+Put both of them in same folder.
+Double click the Lucario.pyw
