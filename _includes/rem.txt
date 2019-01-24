@@ -1,0 +1,6 @@
+mother:anju rusia
+friend:chinmay bokade
+father:praamod rusia
+dog:snowy
+cat:meow
+mehul:jain
