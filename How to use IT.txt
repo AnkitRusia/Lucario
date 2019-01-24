@@ -3,3 +3,11 @@ HOW TO USE IT.
 Download/Clone the reposatory.
 Put both of them in same folder.
 Double click the Lucario.pyw
+And You are done.
+
+NOTE* :
+      1. At first time  it ask you required information to run Lucario
+      2. Provide proper folder directory to get best output
+      
+
+If you just want the application download Exe file
